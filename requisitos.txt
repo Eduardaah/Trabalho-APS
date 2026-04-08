@@ -1,0 +1,11 @@
+REQUISITOS DO SISTEMA - APS
+Questão 01: Conta de Luz - Registrar leitura, calcular média e identificar extremos.
+Questão 02: TextoSada - Configurar fontes e cores de componentes.
+Questão 03: Boneco - Controlar movimento e direção.
+Questão 04: Remédios - Gerar planilha de horários e permitir atrasos.
+Questão 05: Gastos - Registrar valor e forma de pagamento com relatórios.
+Questão 06: Comanda - Registrar itens e calcular total no caixa.
+Questão 07: Compras - Comparar quantidade prevista/real e preços.
+Questão 08/09: CDs - Gerenciar coleção, coletâneas e músicas.
+Questão 10: Salas - Alocar e realocar reuniões por horário.
+Questão 11: Herança - Superclasse Pessoa para Clientes e Funcionários.
